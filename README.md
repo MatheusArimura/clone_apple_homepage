@@ -2,7 +2,9 @@
 
 ## Sobre o projeto
 
-Esse é um simples projeto onde tento clonar a interface da homepage da Apple utilizando apenas HTML e CSS, usei como base o vídeo da [Fernanda Kipper](https://www.youtube.com/@kipperdev).
+Esse é um simples projeto onde tento clonar a interface da homepage da Apple utilizando apenas HTML e CSS, usei como base o vídeo da [Fernanda Kipper](https://www.youtube.com/@kipperdev) e o projeto em Figma do [David Somper](https://www.figma.com/community/file/1175869172569168844).
+
+Fiz esse projeto para estar exercitando minhas habilidades com HTML e CSS.
 
 ## Layout Web
 
